@@ -38,7 +38,6 @@ process nmrpipe {
     pkDetect2D.tcl -in test.ft2
     ls
     """
-
 }
 
 process rotatejpg{
